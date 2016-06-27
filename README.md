@@ -1,1 +1,1 @@
-# etutorium
+Moodle Etutoium module
